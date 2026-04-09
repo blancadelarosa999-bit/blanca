@@ -113,3 +113,6 @@ src/
 │   └── types.ts      # TypeScript interfaces
 └── public/images/    # Local image assets
 ```
+
+
+Deployment trigger
